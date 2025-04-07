@@ -26,9 +26,13 @@ The Gender column was standardized to lowercase (male, female) for consistency.
 Column names were cleaned to be lowercase and spaces were replaced with underscores for uniformity:
 
 -- CustomerID → customerid
+
 -- Gender → gender
+
 -- Age → age
+
 -- Annual Income (k$) → annual_income_(k$)
+
 -- Spending Score (1-100) → spending_score_(1-100)
 
 - Fixing Data Types:
