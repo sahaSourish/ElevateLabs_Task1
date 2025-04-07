@@ -4,7 +4,7 @@
 
 This project involves cleaning and preparing the Mall Customers dataset for further analysis. The dataset contains customer information such as CustomerID, Gender, Age, Annual Income (k$), and Spending Score (1-100). The goal was to clean the data by handling missing values, duplicates, inconsistent formats, and ensuring proper data types.
 
-### Steps Taken
+## Steps Taken
 - Loading the Dataset:
 
 The dataset was loaded using Python's Pandas library.
