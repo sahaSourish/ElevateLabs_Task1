@@ -40,6 +40,7 @@ Column names were cleaned to be lowercase and spaces were replaced with undersco
 Ensured columns had appropriate data types:
 
 -- customerid, age, annual_income_(k$), and spending_score_(1-100) were converted to integers.
+
 -- gender remained as a string.
 
 - Saving the Cleaned Dataset:
@@ -50,8 +51,6 @@ The cleaned dataset was saved as Mall_Customers_Cleaned.csv.
 -- Python Libraries:
 
 --- Pandas for data manipulation
-
---- NumPy for numerical operations
 
 # Dataset:
 
