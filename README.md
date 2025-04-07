@@ -54,4 +54,4 @@ The cleaned dataset was saved as Mall_Customers_Cleaned.csv.
 
 # Dataset:
 
--- Mall Customers dataset (Mall_Customers.csv)
+-- Mall Customer Segmentation Data (Mall_Customers.csv)
